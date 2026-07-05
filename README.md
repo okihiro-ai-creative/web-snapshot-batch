@@ -1,6 +1,6 @@
 # web-snapshot-batch
 
-Created by OKIHIRO — AI自動化ワークフローを100個以上開発・運用しています。
+Created by OKIHIRO — AI自動化ワークフローを130個以上開発・運用しています。
 
 `web-snapshot-batch` は、複数URLからPC/モバイルのスクリーンショット、HTML、本文テキスト、CSSを一括保存するAIエージェント向けスキルです。
 
